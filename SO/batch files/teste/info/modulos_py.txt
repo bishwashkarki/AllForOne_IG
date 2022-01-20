@@ -1,0 +1,9 @@
+Package        Version
+-------------- -------
+DateTime       4.3
+easygui        0.98.2
+pip            21.3
+pygame         2.0.2
+pytz           2021.3
+setuptools     40.8.0
+zope.interface 5.4.0

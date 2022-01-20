@@ -1,0 +1,18 @@
+Lista de caminhos de pasta
+O n£mero de s‚rie do volume ‚ 00000200 A247:B7E0
+C:.
+|   tree.txt
+|   
++---info
+|   |   modulos_py.txt
+|   |   
+|   \---rede
+|           rede.txt
+|           
+\---python
+    +---desktop
+    +---gaming
+    +---mobile
+    \---web
+        +---django
+        \---flask

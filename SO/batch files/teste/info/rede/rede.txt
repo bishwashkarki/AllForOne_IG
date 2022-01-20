@@ -1,0 +1,73 @@
+
+Configuraá∆o IP do Windows
+
+   Nome do Anfitri∆o. . . . . . . . .: Escola-PC
+   Sufixo DNS principal. . . . . . . : 
+   Tipo de n¢. . . . . . . . . . . . : H°brido
+   Rota IP activada. . . . . . . . . : N∆o
+   WINS Proxy activado . . . . . . . : N∆o
+
+Adaptador ethernet Ligaá∆o de µrea Local 3:
+
+   Sufixo DNS espec°fico da ligaá∆o. : 
+   Descriá∆o . . . . . . . . . . . . : Intel(R) 82578DM Gigabit Network Connection
+   Endereáo f°sico . . . . . . . . . : 44-87-FC-96-33-CA
+   DHCP activado . . . . . . . . . . : Sim
+   Autoconfiguraá∆o activada . . . . : Sim
+   Endereáo IPv6 de local de ligaá∆o : fe80::6932:2b0b:1227:ba8e%14(Preferido) 
+   Endereáo IPv4 . . . . . . . . . . . . . . : 10.1.27.252(Preferido) 
+   M†scara de sub-rede . . . . . . . : 255.255.248.0
+   Concess∆o obtida. . . . . . . . . : quinta-feira, 28 de outubro de 2021 09:57:35
+   Concess∆o obtida v†lida atÇ . . . : quinta-feira, 28 de outubro de 2021 21:57:34
+   Gateway predefinido . . . . . . . : 10.1.31.254
+   Servidor DHCP . . . . . . . . . . : 10.1.31.254
+   IAID DHCPv6 . . . . . . . . . . . : 319846610
+   DUID Cliente DHCPv6 . . . . . . . : 00-01-00-01-21-5A-75-78-00-25-B3-0D-9F-13
+   Servidores DNS. . . . . . . . . . : 8.8.8.8
+                                       8.8.4.4
+   NetBIOS por Tcpip . . . . . . . . . . . . : Activado
+
+Adaptador ethernet VirtualBox Host-Only Network:
+
+   Sufixo DNS espec°fico da ligaá∆o. : 
+   Descriá∆o . . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Endereáo f°sico . . . . . . . . . : 0A-00-27-00-00-12
+   DHCP activado . . . . . . . . . . : Sim
+   Autoconfiguraá∆o activada . . . . : Sim
+   Endereáo IPv6 de local de ligaá∆o : fe80::d546:cf84:cf46:10cb%18(Preferido) 
+   Endereáo IPv4 de Configuraá∆o Autom†tica. : 169.254.16.203(Preferido) 
+   M†scara de sub-rede . . . . . . . : 255.255.0.0
+   Gateway predefinido . . . . . . . : 
+   IAID DHCPv6 . . . . . . . . . . . : 403308583
+   DUID Cliente DHCPv6 . . . . . . . : 00-01-00-01-21-5A-75-78-00-25-B3-0D-9F-13
+   Servidores DNS. . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS por Tcpip . . . . . . . . . . . . : Activado
+
+Adaptador Tunnel isatap.{A3EECC42-9BEA-47EF-ABC9-9F186D48A681}:
+
+   Estado do suporte . . . . . . . . : Suporte desligado
+   Sufixo DNS espec°fico da ligaá∆o. : 
+   Descriá∆o . . . . . . . . . . . . : Placa Microsoft ISATAP
+   Endereáo f°sico . . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP activado . . . . . . . . . . : N∆o
+   Autoconfiguraá∆o activada . . . . : Sim
+
+Adaptador Tunnel Teredo Tunneling Pseudo-Interface:
+
+   Estado do suporte . . . . . . . . : Suporte desligado
+   Sufixo DNS espec°fico da ligaá∆o. : 
+   Descriá∆o . . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Endereáo f°sico . . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP activado . . . . . . . . . . : N∆o
+   Autoconfiguraá∆o activada . . . . : Sim
+
+Adaptador Tunnel isatap.{96035142-FBEE-4917-853E-E2C6D74B58E8}:
+
+   Estado do suporte . . . . . . . . : Suporte desligado
+   Sufixo DNS espec°fico da ligaá∆o. : 
+   Descriá∆o . . . . . . . . . . . . : Placa Microsoft ISATAP #2
+   Endereáo f°sico . . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP activado . . . . . . . . . . : N∆o
+   Autoconfiguraá∆o activada . . . . : Sim
